@@ -18,7 +18,7 @@ const DEFAULT_ENCODING: TiktokenEncoding = "cl100k_base";
  *
  * @example
  * ```ts
- * import { calculateTokenCount } from "./mod.ts";
+ * import { calculateTokenCount } from "@zac/safe-inbed";
  * 
  * console.log("Token count:", calculateTokenCount("Hello, world!"));
  * // Output: Token count: 4

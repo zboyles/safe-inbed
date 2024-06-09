@@ -6,7 +6,7 @@
  *
  * @example
  * ```ts
- * import { calculateTokenCount } from "./mod.ts";
+ * import { calculateTokenCount } from "@zac/safe-inbed";
  * 
  * console.log("Token count:", calculateTokenCount("Hello, world!"));
  * // Output: Token count: 4
