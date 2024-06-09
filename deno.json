@@ -1,0 +1,12 @@
+{
+  "name": "@zac/safe-inbed",
+  "version": "0.1.2",
+  "exports": "./mod.ts",
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "mathjs": "npm:mathjs@^13.0.0",
+    "tiktoken-node": "npm:tiktoken-node@^0.0.7"
+  }
+}
